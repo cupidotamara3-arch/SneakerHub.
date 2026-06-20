@@ -1,0 +1,21 @@
+[
+    {
+    "id": 1,
+    "name": "Nike Air Max",
+    "price": 1800,
+    "image": "assets/nike-air-max.jpg"
+    },
+    {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "price": 2200,
+    "image": "assets/adidas-ultraboost.jpg"
+    },
+    {
+    "id": 3,
+    "name": "Puma RS-X",
+    "price": 1500,
+    "image": "assets/puma-rs-x.jpg"
+    }
+    ]
+    
